@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">WinningSalesSkills</string>   
+      
+       <!-- <string name="app_name">WinningSalesSkills Test</string> -->  
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="genTermRetrivingData">Retrieving Data…</string>
+    <string name="genTermValidDataNew">Validating!!</string>
+    <string name="genTermNoDataConnection">Information</string>
+    <string name="genTermNoDataConnectionFullMsg">Your device has no Data Connection. \n Please ensure Internet is accessible to Continue.</string>
+    <string name="txtOk">OK</string>
+    <string name="genTermInformation">Information</string>
+    <string name="newVersionAlertOnLauncher">New Version of this application is available now. \nPlease click on OK to install new Version!</string>
+    <string name="genTermPleaseWaitNew">Please Wait ...</string>
+    <string name="genTermDownloadData">Updating New Version…</string>
+    <string name="syncAlertErrMsg"><small>Data not submit successful. \nPlease try again.</small></string>
+    <string name="syncAlertOKMsg"><small>Data submit successful!</small></string>
+    <string name="genTermRetrivingLocation">Retrieving Location...</string>
+    <string name="syncAlertErrMsggg"><small>Internet is slow. \n Data Saved. It will get submitted later on \n automatically.</small></string>
+    <string name="some_text">  Display and Filter some North American Countries!</string>
+    <string name="some_hint">  Type here to filter&#8230;</string>
+    <string name="category_prompt">Please Select Chain</string>
+    <string name="store_prompt">Please Select Store</string>
+    <string name="syncAlertErrMsgDayEndOrChangeRoute"><small>Due to Internet connectivity breakdown, not able to upload Data. \nPlease try again.</small></string>
+    <string name="submitConfirmAlert"><small>Do you want to Submit Details?</small></string>
+    <string name="submitConfirmAlertPendingData"><small>For Version update,you have to upload pending data.</small></string>
+    <string name="region_prompt">Please Select Region</string>
+    <string name="internetslowMsggg"><small>Internet is slow? Still want to wait.</small></string>
+    <string name="title_activity_modules">ModulesActivity</string>
+    <string name="title_activity_assesment_module">AssesmentModuleActivity</string>
+    <string name="title_activity_sample">SampleActivity</string>
+    <string name="title_activity_group_ques">GroupQuesActivty</string>
+    <string name="title_activity_score_board">ScoreBoardActivty</string>
+    <string name="only_character">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="only_characteandSpace">.- abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="only_character_Space_no">.- abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="only_character_Space_no_slash">.-/ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="title_activity_all__view_">All_View_Activity</string>
+
+</resources>

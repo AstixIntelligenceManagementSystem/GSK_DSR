@@ -1,0 +1,245 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9"
+    android:orientation="vertical"
+   >
+ <LinearLayout
+      android:id="@+id/ll_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+  		android:paddingLeft="16dp"
+  		android:paddingRight="16dp"
+  		android:paddingTop="5dp"
+  		android:paddingBottom="5dp"
+        android:gravity="left|center"
+        android:weightSum="1"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/custom_header"
+        android:orientation="horizontal">
+ 
+ <ImageView 
+     android:id="@+id/img_back"
+     android:layout_width="0dp"
+     android:layout_height="wrap_content"
+     android:layout_weight="0.1"
+     android:src="@drawable/ic_back"/>
+      
+
+            <TextView
+                android:id="@+id/txtVw_ModuleHeading"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8"
+                android:background="@null"
+                android:text="E-Learning"
+                android:layout_marginLeft="16dp"
+                android:gravity="center_horizontal"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" 
+                android:textStyle="bold"/>
+            
+             
+   
+        
+ </LinearLayout> 
+ 
+ 
+ <LinearLayout
+   
+    android:layout_width="match_parent"
+    
+    android:layout_height="wrap_content"
+   
+   android:layout_marginBottom="10dp"
+    android:background="#DDDCE1"
+    android:orientation="vertical" >
+ 
+  <LinearLayout
+           
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="10dp"
+     >
+            
+      
+       <TextView
+                android:id="@+id/txtVw_testNametxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Test Name :- "
+                android:layout_marginLeft="16dp"
+                
+                android:textColor="@android:color/black"
+                android:textSize="14sp" 
+                android:textStyle="bold"/>
+       
+       <TextView
+                android:id="@+id/txtVw_testName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HHt Usage"
+                android:layout_marginLeft="8dp"
+                
+                android:textColor="@android:color/black"
+                android:textSize="14sp" 
+                android:textStyle="bold"/>
+            
+      </LinearLayout> 
+      
+   <TextView
+                android:id="@+id/txt_TotalQuestion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Question Description"
+                android:paddingLeft="12dp"
+                android:layout_marginLeft="7dp"
+                android:paddingRight="12dp"
+                android:layout_marginTop="10dp" 
+                 android:textColor="@android:color/black"
+                android:textSize="12sp" 
+               
+                />
+   
+   
+    <TextView
+                android:id="@+id/txt_CorrectQuestion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Answered 1 questions correctly out of total 6 questions."
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:layout_marginTop="10dp" 
+                android:layout_marginLeft="7dp"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" 
+                android:layout_marginBottom="10dp"
+               
+                />
+       
+ </LinearLayout> 
+  
+         <ScrollView 
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_alignParentTop="true"
+       android:padding="16dp"
+       android:scrollbars="none"
+       android:layout_above="@+id/btn_submit">
+       
+       <LinearLayout
+           
+    android:layout_width="match_parent"
+    
+    android:layout_height="wrap_content"
+   
+   
+    
+    android:orientation="vertical" >
+    
+             <TextView
+                android:id="@+id/questino_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Question Description"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="10dp" 
+                android:textColor="@android:color/black"
+                android:textSize="12sp" 
+                />
+       
+<LinearLayout
+    android:id="@+id/ll_dynamicForm"
+    android:layout_width="match_parent"
+    
+    android:layout_height="wrap_content"
+   
+   
+    
+    android:orientation="vertical" >
+    
+    
+    </LinearLayout>
+    
+ 
+    
+
+<LinearLayout
+   
+    android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp" >
+    
+    
+    <ImageView 
+     android:id="@+id/img_successfail"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+    
+     />
+    
+    
+    </LinearLayout>
+    
+<LinearLayout
+    
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:layout_below="@+id/tv_Route"
+    android:gravity="center"
+    android:weightSum="3"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="25dp"
+    android:layout_marginRight="25dp"
+    android:layout_marginBottom="10dp"
+    >
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_height="match_parent"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        
+        android:background="@drawable/custom_button"
+         android:textColor="#fff"
+        android:text="Submit"
+        android:textStyle="bold"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" />
+   
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_height="match_parent"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+         android:textColor="#fff"
+         android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textStyle="bold"
+         android:layout_marginLeft="10dp"
+        android:text="Next" />
+   
+</LinearLayout>
+             
+		
+    
+    
+</LinearLayout>
+
+
+ 
+  
+</ScrollView>
+ 
+</LinearLayout>
+

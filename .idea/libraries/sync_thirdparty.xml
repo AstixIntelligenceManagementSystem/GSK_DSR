@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sync-thirdparty">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/sync-thirdparty.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

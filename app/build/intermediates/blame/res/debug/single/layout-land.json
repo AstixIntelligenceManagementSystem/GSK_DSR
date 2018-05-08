@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_date_picker_dialog.xml",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.0\\res\\layout-land\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_date_picker_dialog.xml",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.0\\res\\layout-land\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_time_picker_dialog.xml",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.0\\res\\layout-land\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_time_picker_dialog.xml",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.0\\res\\layout-land\\mdtp_time_picker_dialog.xml"
+    }
+]

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     android:background="@drawable/module_bkg"
+     android:id="@+id/ll_singleModule"
+    android:weightSum="4" >
+    
+    <ImageView 
+        android:id="@+id/img_smallIcon"
+        android:layout_width="0dp"
+        android:padding="5dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/admin1"/>
+
+    <LinearLayout 
+        android:id="@+id/ll_module_Contents"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="3"
+        android:padding="5dp"
+        android:weightSum="4">
+        <LinearLayout 
+            android:layout_width="match_parent"
+               android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:orientation="horizontal">
+        <TextView 
+            android:id="@+id/txt_heading"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.8"
+            android:gravity="left|center_vertical"
+            android:text="DSR Capablity Development"
+            android:textColor="#2387B1"
+            android:layout_marginRight="5dp"
+            android:textStyle="bold"/>
+        
+          <TextView 
+            android:id="@+id/txt_New"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:background="#E00202"
+            android:visibility="invisible"
+            android:text="New"
+            android:textColor="#ffffff"
+            android:textStyle="bold"/>
+        </LinearLayout>
+          <TextView 
+              android:id="@+id/txt_sub_heading"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.2"
+            android:gravity="left"
+            android:text="Customer Buisness Planning and Management"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+          
+            <TextView 
+                android:id="@+id/txt_short_descrp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1.5"
+            android:maxLines="3"
+           
+            android:gravity="left|center_vertical"
+            android:text="This modules involes training your XSRs to understand the Sales"
+            android:textColor="#757575"
+          />
+    </LinearLayout>
+</LinearLayout>

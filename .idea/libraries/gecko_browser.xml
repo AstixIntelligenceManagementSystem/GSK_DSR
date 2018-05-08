@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gecko-browser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/gecko-browser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h330dp-v13\\values-h330dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.0\\res\\values-h330dp\\values-h330dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 69,
+                        "endOffset": 281
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h330dp-v13\\values-h330dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.0\\res\\values-h330dp\\values-h330dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 69,
+                        "endOffset": 281
+                    }
+                }
+            }
+        ]
+    }
+]

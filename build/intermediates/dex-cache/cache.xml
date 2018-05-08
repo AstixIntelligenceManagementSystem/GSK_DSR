@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_4d0ea9410a3d1529cc54b6208202f1379b322a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\http-core-4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\http-core-4.1_06d1b9a596e22deccca99ecc9e5a8b94dc32da72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_44ac6cc077336113b7b58c18c3247dae7666ccb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_b22e50685dd25d417d27a9a87b34e182dec181b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\gecko-browser.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="274848ab96ec6c617a62695df02e471938865ddc">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\gecko-browser_d3089d956936764afb5468499b768cb455a99e5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_4fc681b1dc27d08e5ca918061fae25730bfd7bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_f9d3f6d494368a150f4db45145f7e96b7f61b744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\sync-thirdparty.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1c5646030bd39d2bb5b9e9a56ed248e2deb65820">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\sync-thirdparty_d37b2105d89d42f16205541e590e403a347833bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_adc4ab95ce25158438cd79c5210c16d9d236f2b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_d363eee22a5ba4ab43c798d356e4b6a524613ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_51c7316d819eaeed7f72f4649ae1941c3e54f1cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_5a6fb98d86f5c9b6e645919399030f670a69dfc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_a3515a7cfd2a4607df118dfedf9419659afd99f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1a35d880caf9be6ab2b924deb7684c976dfe0215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\httpclient-4.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="781b68c2fd5335de914166241b8d4bfe8c2f91b7">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\httpclient-4.0.2_93a1927b29d38f156d3a1009acb1a3a0d8a80212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_58774bd53fc78948a419bf79ece21119e8ca2d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_43cdd134c363cc510f11cee7c304030722e07044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\android-async-http-1.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.3_1c1b961390830d66b0332342c3a088f3f56f3247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_a9e124f2381e7f40ca318fca2974c1b464f14a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_37fa987e69ce28ac516919820c464a6a210630ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\webrtc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4cf7dd93514bf376a45d4273c907cad88e36bb5f">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\webrtc_92f6fdd95fc61dc59eaa6879191948edd9d0fc1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_c61d16e2444124d5043ec3f9996bbc07632857cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_bb555a01a0d253b8bb3524d4393080d71db34b24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b5de14e951d752cbf4c7f48640f86ba3ac929a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_fa822da1831f75956dde2926ec5e41dcfcfe6522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_2f0b8b94f9e2f2c29f838ee5f1bdd723b8dcaa37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_77e091bd96e4b54751ca0b7e77831159853e7301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_5552f8dc0d92c1aab86ce97ae40e02f97ccd4a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8498cef42b81c0ae59dfe509afa9870075bc45ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\websockets.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e933807767ff21b7e60067b2cf6cb3cf311173c5">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\websockets_6265a6f2b9c5a6924678142ede381f32dd1326f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\gecko-mozglue.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8db2f182e606aebca343aecd20b19d585ec87e33">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\gecko-mozglue_2837152a9ddcd5c7bb23864b9511ee9e8bcf9128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_c9a18558108754bbbeecc8d6899fecde6ffba356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_1ca390dd105e85e4d9ebc87e2c57876f3ca42059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_df17c750df4e7309c3ad7e4c0de7c6968a21b037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="400a2afc7073b2e68c3841db8b9b71d4182f242d">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.6.0-jar-with-dependencies_0877456237c1252aa5ed39165c0e39a5eaeb8ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_0fa9f2cbbe28e48ed4c184d2716560befdc7dca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\gradle-wrapper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e614e3b2edc63a9cc423437dea087c91962254f5">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\gradle-wrapper_5900083730820fc088ffe22593f3f0485820dacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_f4823ce9f9579be3753f0116d74afdea3e5ffd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_ca02e41ce093a5512713139d1d746582363a3723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_5dfac24f043d24eea69e54e1bc2988ef1b73b061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_fb9d3b9bf31b58346cb6aae502a02567c0b96968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\gecko-util.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ccff2feb32ba3826dc7bff0236c122c8462079de">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\gecko-util_c74bf9e40eb2164150e9a0afac2e3f39e3664616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_ef19ff7dd6d4504b25f6eb08814753aaf16781ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b1e6f58788723776464fe4c14a73ab8ddf02110">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.wdullaer-materialdatetimepicker-2.0.0_30503a61657d73ab23402ebd8fd791952e5db149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_13fd3e51d08b647fa52c7dfb0badbf4bcffb67e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_f31db4ebfe91440caed36182daaa52c70ae91b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\libs\bugsense-1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="495021ce133ff403d469bc73b897d54c5bd36dc8">
+        <dex dex="E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\pre-dexed\debug\bugsense-1.9_44976fb984637d9631ce1988e52f96138f99a3e4.jar" />
+    </item>
+
+</items>

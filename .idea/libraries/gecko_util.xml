@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gecko-util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/gecko-util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

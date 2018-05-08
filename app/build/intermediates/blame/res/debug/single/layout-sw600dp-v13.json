@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.0\\res\\layout-sw600dp\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.0\\res\\layout-sw600dp\\mdtp_date_picker_dialog.xml"
+    }
+]

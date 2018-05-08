@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\xml\\file_paths.xml"
+    }
+]

@@ -1,0 +1,230 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9"
+   >
+ <LinearLayout
+      android:id="@+id/ll_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+  		android:paddingLeft="16dp"
+  		android:paddingRight="16dp"
+  		android:paddingTop="5dp"
+  		android:paddingBottom="5dp"
+     android:gravity="left|center"
+     android:weightSum="1"
+       android:layout_alignParentTop="true"
+      android:background="@drawable/custom_header"
+     android:orientation="horizontal">
+ 
+ <ImageView 
+     android:id="@+id/img_back"
+     android:layout_width="0dp"
+     android:layout_height="wrap_content"
+     android:layout_weight="0.1"
+   
+      android:src="@drawable/ic_back"/>
+      
+
+            <TextView
+               android:id="@+id/txtVw_ModuleHeading"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+               android:layout_weight="0.8"
+                android:background="@null"
+                 android:text="E-Learning"
+               
+               android:layout_marginLeft="16dp"
+                android:gravity="center_horizontal"
+               
+                android:textColor="@android:color/white"
+                android:textSize="20sp" 
+                android:textStyle="bold"/>
+            
+             
+   
+        
+ </LinearLayout> 
+ 
+  <ImageView
+      android:id="@+id/img_Module"
+      android:layout_below="@+id/ll_header"
+      android:layout_width="match_parent"
+      android:layout_height="120dp" 
+      android:background="#3FCE99"
+     
+      android:src="@drawable/admin1"/>
+   <ImageView
+      android:id="@+id/img_start_Module"
+      android:layout_below="@+id/ll_header"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" 
+    android:layout_marginTop="90dp"
+    android:layout_marginRight="10dp"
+     android:layout_alignParentRight="true"
+      android:background="@drawable/start_module_btn"/>
+  <LinearLayout 
+      android:id="@+id/ll_module_Desc"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/img_Module"
+       android:paddingLeft="16dp"
+      android:paddingRight="16dp"
+      android:paddingTop="5dp"
+      android:paddingBottom="5dp"
+      
+      android:orientation="vertical">
+            
+      
+       <TextView 
+              android:id="@+id/txt_sub_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           android:layout_marginTop="5dp"
+            android:gravity="left"
+            android:text="Selling &amp; Negotiation"
+            android:textColor="#20A8B3"
+            android:textStyle="bold"/>
+            
+         <TextView 
+              android:id="@+id/txt_short_descrp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Customer Buisness Planning and Management"
+              android:background="@drawable/custom_radiogroup_border"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+          
+            <TextView 
+                android:id="@+id/txt_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+           android:padding="10dp"
+            android:background="@drawable/custom_radiogroup_border"
+            android:gravity="center"
+            android:text="Status : Incomplete"
+            android:textColor="#757575"
+          />
+      
+  </LinearLayout>
+  
+  
+  
+  <TextView 
+            android:id="@+id/txt_a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_module_Desc"
+            android:gravity="left"
+           
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textColor="#3886BD"
+            android:text="Certification"
+            android:textStyle="bold"/>
+   
+
+   <TextView 
+            android:id="@+id/txt_Assmnt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_a"
+            android:gravity="center_horizontal"
+          android:background="@drawable/custom_radiogroup_border"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:enabled="false"
+           android:layout_marginLeft="14dp"
+           android:layout_marginRight="14dp"
+            android:textColor="#000000"
+            android:text="Assessment"
+            android:textStyle="bold"/>
+   
+   
+   
+          <LinearLayout 
+      android:id="@+id/ll_module_CompOrIncomp"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/txt_Assmnt"
+      android:orientation="horizontal" 
+      android:padding="3dp"
+       android:layout_marginLeft="14dp"
+           android:layout_marginRight="14dp"
+           android:layout_marginTop="5dp"
+      android:background="@drawable/custom_radiogroup_border"
+      android:gravity="center_horizontal" >
+      
+            
+              
+               <TextView 
+           android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:paddingTop="5dp"
+            android:text="Status"
+            android:layout_marginLeft="1dp"
+           android:textColor="#000000"
+             />
+            <LinearLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="5dp"
+                 android:layout_marginLeft="10dp"
+               
+                android:paddingBottom="3dp">
+         <TextView 
+            android:id="@+id/txt_comp_incomp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/in_complete"
+            android:gravity="left"
+            android:drawablePadding="5dp"
+            android:text="Incomplete"
+            android:textColor="#000000"
+            android:textSize="13dp"
+            android:textStyle="bold"/>
+         
+        
+         </LinearLayout>
+         
+            
+            
+      
+  </LinearLayout>
+  <LinearLayout 
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="5dp"
+                 android:layout_marginLeft="7dp"
+              android:layout_below="@+id/ll_module_CompOrIncomp"
+              android:layout_marginTop="10dp"
+                android:paddingBottom="3dp">
+         <TextView 
+            android:id="@+id/txt_print_certificate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Show Certificate"
+           
+            android:layout_marginLeft="10dp"
+             android:textSize="13dp"
+             
+            android:drawableLeft="@drawable/print_new"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+          </LinearLayout>
+           
+</RelativeLayout>
+

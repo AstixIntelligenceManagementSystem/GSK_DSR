@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+
+    <LinearLayout
+    android:id="@+id/ll_header"
+    android:layout_width="fill_parent"
+    android:layout_height="56dp"
+    android:layout_alignParentLeft="true"
+    
+    android:background="#BE2000"
+    android:gravity="left|center"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:weightSum="1" >
+
+    <TextView
+        android:id="@+id/txtVw_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:background="@null"
+        android:gravity="center"
+        android:text="Score Board"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>
+    <LinearLayout 
+        android:id="@+id/ll_total_score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:paddingLeft="16dp"
+        android:layout_below="@+id/ll_header"
+        android:paddingRight="16dp"
+        android:weightSum="2">
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textColor="#BE2000"
+            android:text="Total Score ="
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"/>
+        <TextView 
+            android:id="@+id/txt_total_Score"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textColor="#BE2000"
+            android:text="00"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="left"/>
+    </LinearLayout>
+    <ScrollView 
+        
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:scrollbarStyle="outsideOverlay"
+        android:layout_below="@+id/ll_total_score"
+        android:layout_above="@+id/ll_Ok">
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#41555C"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:textColor="@android:color/white"
+        android:text="Description"
+        android:textStyle="bold"/>
+    
+    <TextView 
+        android:id="@+id/txt_dscrptn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+       
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        
+       
+        android:textColor="@android:color/black"
+        android:text="Is deeply entrenched in traditional thought process, displays limited/no innclination to grow along the right path, significant value/worldview mismatch
+"
+       />
+    
+     <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#41555C"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:textColor="@android:color/white"
+        android:text="Profile"
+        android:textStyle="bold"/>
+    
+    <TextView 
+        android:id="@+id/txt_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="3dp"
+       
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        
+        android:paddingBottom="3dp"
+        android:textColor="@android:color/black"
+        android:text="Traditional 2"
+       />
+    
+      <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:background="#41555C"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:textColor="@android:color/white"
+        android:text="Recommended Action"
+        android:textStyle="bold"/>
+    
+    <TextView 
+        android:id="@+id/txt_rcmndd_actn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="3dp"
+       
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        
+        android:paddingBottom="3dp"
+        android:textColor="@android:color/black"
+        android:text="Firm Plan to exit within 3 months"
+       />
+    
+      <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:background="#41555C"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:textColor="@android:color/white"
+        android:text="Spirit"
+        android:textStyle="bold"/>
+    
+    <TextView 
+        android:id="@+id/txt_spirit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+       
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        
+        android:paddingBottom="3dp"
+        android:textColor="@android:color/black"
+        android:text="get rid at any cost"
+       />
+    </LinearLayout>
+    </ScrollView>
+    <LinearLayout 
+    android:id="@+id/ll_Ok"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   
+    android:layout_alignParentBottom="true"
+    android:background="@drawable/custom_button">
+    
+    <TextView 
+        android:id="@+id/txt_OK"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="OK"
+        android:paddingRight="16dp"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+       
+        />
+</LinearLayout>
+</RelativeLayout>

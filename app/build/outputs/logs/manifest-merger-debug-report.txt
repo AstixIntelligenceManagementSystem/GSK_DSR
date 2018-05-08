@@ -1,0 +1,506 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:2:1-158:12
+	package
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:design:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:support-v4:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\10.0.1\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:23:5-42
+MERGED from [com.wdullaer:materialdatetimepicker:2.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.0\AndroidManifest.xml:22:5-24:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:14:5-82
+MERGED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:14:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:27:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:30:22-68
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:33:5-73
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:33:22-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:36:5-89
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:36:22-86
+uses-permission#android.permission.INTERNET
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:37:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:37:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:38:5-79
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:38:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:40:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:41:22-72
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:42:5-75
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:42:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:43:5-81
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:43:22-78
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:44:5-76
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:44:22-73
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:45:5-78
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:45:22-75
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:46:5-98
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:46:22-95
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:47:5-80
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:47:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:48:5-81
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:48:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:52:5-76
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:52:22-73
+uses-permission#android.permission.CAMERA
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:53:5-65
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:53:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:54:5-71
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:54:22-68
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:55:5-71
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:55:22-68
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:57:5-58:23
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:57:22-71
+application
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:60:5-156:19
+MERGED from [com.android.support:design:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\10.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:24:5-19
+MERGED from [com.wdullaer:materialdatetimepicker:2.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.0\AndroidManifest.xml:28:5-20
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:63:9-41
+	android:allowBackup
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:61:9-35
+	android:icon
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:62:9-45
+	android:largeHeap
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:64:9-44
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:66:9-62
+activity#com.astix.gsk_dsr.SplashScreen
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:67:9-78:20
+	android:screenOrientation
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:70:13-45
+	android:configChanges
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:69:13-63
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:72:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:68:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:73:13-77:29
+action#android.intent.action.MAIN
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:76:27-74
+activity#com.astix.gsk_dsr.LoginActivity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:79:9-83:20
+	android:screenOrientation
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:80:13-59
+activity#com.astix.gsk_dsr.AllButtonActivity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:84:9-88:20
+	android:screenOrientation
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:86:13-45
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:85:13-63
+activity#com.astix.gsk_dsr.ModulesActivity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:89:9-94:20
+	android:screenOrientation
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:91:13-59
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:92:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:90:13-61
+activity#com.astix.gsk_dsr.AssesmentModuleActivity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:95:9-101:20
+	android:screenOrientation
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:97:13-68
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:99:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:96:13-69
+activity#com.astix.gsk_dsr.ModuleQuestionAnswerActivity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:103:9-108:20
+	android:screenOrientation
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:105:13-68
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:107:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:104:13-74
+activity#com.astix.gsk_dsr.SyncMaster
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:109:9-113:20
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:111:13-68
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:112:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:110:13-56
+activity#com.astix.gsk_dsr.DistributorAssessmentMain
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:114:9-119:20
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:116:13-68
+	android:windowSoftInputMode
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:118:13-52
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:117:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:115:13-71
+activity#com.astix.gsk_dsr.GroupQuesActivity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:120:9-124:20
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:122:13-62
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:123:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:121:13-63
+activity#com.astix.gsk_dsr.ScoreBoardActivity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:125:9-129:20
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:127:13-63
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:128:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:126:13-64
+activity#com.astix.gsk_dsr.WebViewActivity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:131:9-137:20
+	android:screenOrientation
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:136:13-50
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:133:13-63
+	android:hardwareAccelerated
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:134:13-47
+	android:theme
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:135:13-66
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:132:13-61
+service#com.astix.gsk_dsr.UploadXMLService
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:139:9-140:19
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:139:18-67
+activity#com.astix.gsk_dsr.All_View_Activity
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:142:9-145:20
+	android:label
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:144:13-62
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:143:13-63
+provider#android.support.v4.content.FileProvider
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:147:9-155:20
+	android:authorities
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:149:13-61
+	android:grantUriPermissions
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:151:13-47
+	android:exported
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:150:13-37
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:148:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:152:13-154:54
+	android:resource
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:154:17-51
+	android:name
+		ADDED from E:\Nitish\AndroidStudioSetup\GSK_DSR\app\src\main\AndroidManifest.xml:153:17-67
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:16-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:20-65
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:79-143
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:46:25-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:19-91
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:52-75
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:2.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.0\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:2.0.0] E:\Nitish\AndroidStudioSetup\GSK_DSR\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.0\AndroidManifest.xml:26:22-63

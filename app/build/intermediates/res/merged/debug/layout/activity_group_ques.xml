@@ -1,0 +1,117 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_below="@+id/ll_header"
+    android:layout_marginTop="10dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:weightSum="1">
+    <LinearLayout 
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="0.8">
+           <TextView 
+               android:id="@+id/txt_ques"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           
+           android:textColor="#000000"
+           android:text="Distributor  meets basic requirements of warehouse space, office space, delivery units, computers, printers etc."/>
+         
+                <LinearLayout
+        android:id="@+id/ll_radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+      
+
+    </LinearLayout>
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+         android:layout_weight="0.2">
+     <ImageView 
+        android:id="@+id/imgVw_alert"
+        android:layout_width="wrap_content"
+     
+        android:layout_height="wrap_content"
+        android:background="@drawable/clicked_popup_info"/> 
+  
+    </LinearLayout>
+    </LinearLayout>
+    
+    
+<LinearLayout 
+    android:id="@+id/ll_next"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@drawable/custom_button">
+    
+    <TextView 
+        android:id="@+id/txt_next"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Next"
+        android:paddingRight="16dp"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:drawableRight="@drawable/next"
+        />
+</LinearLayout>
+
+ <RelativeLayout
+      android:id="@+id/ll_header"
+        android:layout_width="fill_parent"
+        android:layout_height="56dp"
+     
+  		android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp"
+       android:layout_alignParentTop="true"
+      android:background="@drawable/custom_header_distributor"
+     android:orientation="horizontal">
+ 
+
+            <TextView
+               android:id="@+id/txtVw_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+                 android:text="Assessment"
+               
+               android:layout_marginLeft="5dp"
+              
+               
+                android:textColor="@android:color/white"
+                android:textSize="20sp" 
+                android:textStyle="bold"/>
+            
+             <ImageView
+                 android:id="@+id/img_home"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentRight="true"
+                 android:layout_centerVertical="true"
+                 android:src="@drawable/dashboard_home"/>
+            
+             
+      
+ </RelativeLayout>
+
+
+</RelativeLayout>

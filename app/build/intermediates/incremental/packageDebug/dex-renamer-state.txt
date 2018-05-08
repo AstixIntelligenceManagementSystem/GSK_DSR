@@ -1,0 +1,4 @@
+#Tue Mar 13 19:32:07 IST 2018
+base.0=E\:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

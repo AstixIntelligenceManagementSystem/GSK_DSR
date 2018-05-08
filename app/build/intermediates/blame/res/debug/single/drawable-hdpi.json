@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_right.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\ic_right.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_right.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\ic_right.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info_popup_dflt.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\info_popup_dflt.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\upload_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\admin1.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\admin1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\print.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\print.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\in_complete.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\in_complete.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\below_login.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\below_login.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\admin2.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\admin2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sync_error_ico.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sync_error_ico.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pending_module_btn.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\pending_module_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\error_info_ico.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\error_info_ico.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\in_complete.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\in_complete.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_module_btn.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\start_module_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\password_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\password_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p_logo.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\p_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\assesment.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\assesment.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info_popup_clkd.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\info_popup_clkd.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_login.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\logo_login.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_login.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\logo_login.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\complete.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\complete.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_back.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\print_new.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\print_new.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\assessmen_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\assessmen_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\assesment.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\assesment.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\password_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\password_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\home_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sops1.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sops1.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sops_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sops_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reports_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\reports_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sops2.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sops2.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\print.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\print.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\right_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\error_ico.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\error_ico.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\print_new.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\print_new.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sops1.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sops1.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_back.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sync_error_ico.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sync_error_ico.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wrong_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\wrong_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info_popup_clkd.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\info_popup_clkd.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\admin1.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\admin1.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\ic_action.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info_ico.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\info_ico.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\complete.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\complete.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dashboard_home.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\dashboard_home.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\right_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\error_ico.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\error_ico.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sidemenu_logo.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sidemenu_logo.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\e_learning.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\e_learning.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sops_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sops_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sidemenu_logo.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sidemenu_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\ic_action.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wrong_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\wrong_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\admin2.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\admin2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reports_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\reports_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\admin_icon.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\admin_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pending_module_btn.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\pending_module_btn.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_module_btn.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\start_module_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\upload_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\below_login.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\below_login.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p_logo.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\p_logo.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sops2.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\sops2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\error_info_ico.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\error_info_ico.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dashboard_home.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\dashboard_home.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\e_learning.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\e_learning.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info_ico.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\info_ico.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\admin_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\admin_icon.png"
+    },
+    {
+        "merged": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info_popup_dflt.png",
+        "source": "E:\\Nitish\\AndroidStudioSetup\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\info_popup_dflt.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\assessmen_icon.png",
+        "source": "E:\\AndroidStudio\\androidstudioworkspace\\GSK_DSR\\app\\src\\main\\res\\drawable-hdpi\\assessmen_icon.png"
+    }
+]
